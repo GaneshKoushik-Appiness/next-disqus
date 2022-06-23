@@ -114,3 +114,12 @@
     flex-direction: column;
   }
 }
+.comment_section{
+    border: solid 1px #cdd2da;
+    border-radius: 10px;
+    padding:10px;
+}
+.comment_icon{
+    width:200px;
+    height: 200px;
+}
