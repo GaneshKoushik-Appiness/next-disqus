@@ -1,6 +1,5 @@
 import { DiscussionEmbed } from 'disqus-react';
 import { CommentCount } from 'disqus-react';
-import Link from 'next/script'
 import Image from 'next/image'
 import Head from 'next/head'
 import styles from "../styles/Home.module.css"
