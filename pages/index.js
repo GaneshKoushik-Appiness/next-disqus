@@ -15,9 +15,9 @@ export default function Home() {
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
             </Head>
             <div className='d-flex justify-content-center'>
-                <Image src='https://icons.iconarchive.com/icons/custom-icon-design/flatastic-10/512/Comment-edit-icon.png' className={styles.comment_icon}></Image>
+                <Image src='/comment.png' alt="Picture of the author" width={100} height={100}></Image>
             </div>
-            <div className='text-center mb-4 font-weight-bold fs-30'>
+            <div className='text-center font-weight-bold fs-30'>
                 <CommentCount 
                     shortname='test-bedpxn50tg'
                     config={
