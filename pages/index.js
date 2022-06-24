@@ -36,7 +36,7 @@ export default function Home() {
                     {
                         url: "http://localhost:3000/",
                         identifier: "1",
-                        title: "John",
+                        title: "Test",
                         language: 'en'
                     }
                 }
